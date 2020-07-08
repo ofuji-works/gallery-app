@@ -1,0 +1,18 @@
+#main-wrapper {
+  display: flex;
+}
+
+#side-menu, .side-menu-paper {
+  width: 20%;
+  height: 100vh;
+  position: fixed;
+}
+
+#app {
+  margin-left: 30%;
+  width: 60%;
+}
+
+#top {
+  width: 60%;
+}
