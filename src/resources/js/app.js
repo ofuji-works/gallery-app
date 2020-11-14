@@ -12,5 +12,7 @@ require("./bootstrap");
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-require("./components/SideMenu");
-require("./components/GridListComponent");
+require("./components/organisms/SideMenu");
+require("./components/organisms/GridListComponent");
+require("./components/organisms/AboutOrganisms");
+require("./pages/Contact");

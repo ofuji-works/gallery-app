@@ -14,4 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'TopController@index');
+Route::get('/about', function(){
+  return view('about.index');
+});
+Route::get('/product', 'ProductController@index');
+Route::get('/contact', 'ContactController@form');
 // Route::get('/home', 'HomeController@index')->name('home');

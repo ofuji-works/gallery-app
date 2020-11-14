@@ -16,3 +16,54 @@
 #top {
   width: 60%;
 }
+
+.no-border {
+  border-style: none !important;
+}
+
+#contact{
+  width: 80%;
+  margin: 30px auto;
+}
+
+#contact__form {
+  margin-top: 15px;
+}
+
+.p-5{
+  padding: 5px;
+}
+
+.p-10{
+  padding: 10px;
+}
+
+.p-30 {
+  padding: 30px;
+}
+
+.m-15 {
+  margin: 15px;
+}
+
+.ml-15px{
+  margin-left: 15px;
+}
+
+.p-vertical-30{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.p-horizontal-100{
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.w-80percent{
+  width: 80%;
+}
+
+.w-2column{
+  width: 40%;
+}
